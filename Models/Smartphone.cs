@@ -14,7 +14,6 @@ namespace DesafioPOO.Models
             Modelo = modelo;
             Imei = imei;
             Memoria = memoria;
-            // TODO: Passar os parâmetros do construtor para as propriedades
         }
 
         public void Ligar()
